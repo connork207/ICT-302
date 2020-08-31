@@ -38,4 +38,4 @@ HUGO_ENABLEGITINFO = "true"
 [[menu.main]]
 name = "Introduction"
 weight = 1
-url = "/introduction/"
+url = "https://hardcore-nobel-39e20d.netlify.app/introduction/"
