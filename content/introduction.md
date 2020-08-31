@@ -1,6 +1,6 @@
- ---
+---
 title: "Introduction"
-date: 2020-08-24T00:00:00-04:00
+date: 2020-08-30T00:00:00-04:00
 draft: false
 ---
 Hello everyone my name is Connor and I am from Illinois. My hobbies include
