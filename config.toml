@@ -1,7 +1,7 @@
 baseURL = "https://hardcore-nobel-39e20d.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "ananke"
+theme = "bento-master"
 
 [build]
 publish = "public"
