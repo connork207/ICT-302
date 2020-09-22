@@ -1,6 +1,6 @@
 baseURL = "https://hardcore-nobel-39e20d.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Connor's Hugo Site"
 theme = "hugo-theme-m10c-master"
 
 [build]
@@ -39,3 +39,5 @@ HUGO_ENABLEGITINFO = "true"
 name = "Introduction"
 weight = 1
 url = "https://hardcore-nobel-39e20d.netlify.app/introduction/"
+author: Connor
+description: Welcome to my Hugo site. Enjoy all the content I have produced for ICT 302
