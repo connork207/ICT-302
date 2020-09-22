@@ -41,5 +41,5 @@ weight = 1
 url = "https://hardcore-nobel-39e20d.netlify.app/introduction/"
 
 [params]
-author: Connor
-description: Welcome to my Hugo site. Enjoy all the content I have produced for ICT 302
+author = Connor
+description = Welcome to my Hugo site. Enjoy all the content I have produced for ICT 302
