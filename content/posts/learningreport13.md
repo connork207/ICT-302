@@ -5,7 +5,7 @@ draft: false
 ---
 I can identify and define key concepts in (web) content management.
 
-* This week for module 13 we discussed how money-making models are incorporate with a CMS to generate funds for the company. An example of this would be sponsored content on blog posts and crowdfunding techniques. Content is not making the business money directly, but it is indirectly effected the ability to succeed.
+* This week for module 13 we discussed how money-making models are incorporate with a CMS to generate funds for the company. An example of this would be sponsored content on blog posts and crowdfunding techniques. Content is not making the business money directly, however it is indirectly impacting the ability to succeed.
 
 I can describe and compare content management systems.
 
