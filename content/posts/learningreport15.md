@@ -21,5 +21,5 @@ I can identify and employ technologies related to content management.
 
 I can find and use resources for self-directed learning.
 
-* I learned about the developer tools page on Hugo as well as how to find third-party plug-ins for WordPress. Reddit.com/r/Wordpress/ has a variety of pages that discuss updates to prominent plug-ins and new software.
+* I learned about the developer tools page on Hugo as well as how to find third-party plug-ins for WordPress. Reddit.com/r/Wordpress/ has a variety of pages that discuss updates to prominent plug-ins and new software. 
 
